@@ -1,0 +1,8 @@
+.db{
+    border: 5px solid rgb(105, 218, 142);
+    color: black;
+    font-size: 22pt;
+}
+p{
+    font-size: 15pt;
+}
